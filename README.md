@@ -1,74 +1,56 @@
 # 👋 Hi, I'm Harris
 
-Analytics Engineer & BI Project Manager  
-Turning data into scalable business impact since 2020.
-
-I design modern data architectures, build reliable analytics layers, and lead BI projects that drive strategic decision-making.
+**Analytics Engineer | Data & BI Project Lead**  
+Building scalable data foundations that drive measurable business impact.
 
 ---
 
-## 🚀 About Me
+## 🚀 Profile
 
-- 📊 4+ years of experience in Data & Business Intelligence
-- 🏢 Background in Finance, Retail, SaaS & Consulting
-- 🧠 Strong bridge between technical teams and business stakeholders
-- 📈 Focused on scalable data models, performance optimization & data governance
-- 🤝 Experienced in leading BI projects end-to-end
+Analytics Engineer with 4+ years of experience designing modern data architectures, leading BI projects, and enabling data-driven decision-making across Finance, Retail, Industry & Consulting environments.
 
-I believe data is not just about dashboards — it's about enabling better decisions.
+I specialize in transforming complex data ecosystems into reliable, scalable analytics platforms.
 
 ---
 
-## 🛠 Tech Stack
+## 🧱 What I Do
 
-**Data Engineering & Modeling**
-- SQL (advanced)
-- Snowflake
-- Data Modeling (Star Schema, Dimensional Modeling)
-
-**Analytics & BI**
-- Power BI
-- KPI Design & Business Performance Monitoring
-
-**Programming**
-- Python (Pandas, Data Processing, Automation)
-
-**Cloud**
-- Google Cloud Platform (GCP)
+- Design robust cloud-based data architectures (GCP, Azure)
+- Build and optimize data pipelines (SQL, Python, Airflow, dbt)
+- Implement dimensional data models (Star & Snowflake schema)
+- Deliver executive-ready BI solutions (Power BI, Looker, Tableau)
+- Lead end-to-end BI & Analytics projects
+- Establish governance & data quality frameworks
 
 ---
 
-## 📌 What I Do
+## 🛠 Core Stack
 
-- Build robust data pipelines & analytics layers
-- Design scalable BI architectures
-- Lead BI projects from business need to production
-- Optimize performance & cost in modern data warehouses
-- Translate business requirements into technical solutions
+**Data:** SQL • Snowflake • BigQuery • PostgreSQL • Databricks  
+**Orchestration:** Airflow • dbt  
+**BI:** Power BI • Looker • Tableau • MyReport  
+**Cloud:** GCP • Azure  
+**Code:** Python • Spark  
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Focus Areas
 
-- Modern Data Stack optimization
-- Analytics Engineering best practices
-- Data-driven strategy enablement
+Modern Data Stack • Analytics Engineering • Scalable BI Architecture • Cloud Optimization • Data Governance
 
 ---
 
 ## 🤝 Open To
 
-- Data / BI / Analytics Engineering roles
-- Freelance BI & Analytics missions
-- Consulting projects in modern data environments
+Analytics Engineering roles • BI Lead positions • Freelance data missions • Consulting projects
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect
 
-- LinkedIn: https://www.linkedin.com/in/harris-degbegni/
-- Email: harrisoswalds@hotmail.com
+[LinkedIn](https://www.linkedin.com/in/harris-degbegni/)  
+📧 harrisoswalds@hotmail.com
 
 ---
 
-⭐ If you’re working on data transformation projects, feel free to reach out.
+> Turning data into structure, structure into insight, and insight into strategy.
