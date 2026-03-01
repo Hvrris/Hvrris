@@ -66,8 +66,8 @@ I believe data is not just about dashboards — it's about enabling better decis
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Your LinkedIn URL]
-- Email: [Your Professional Email]
+- LinkedIn: https://www.linkedin.com/in/harris-degbegni/
+- Email: harrisoswalds@hotmail.com
 
 ---
 
