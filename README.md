@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Harris
+# Hi, I'm Harris
 
 **Analytics Engineer | Data & BI Project Lead**  
 Building scalable data foundations that drive measurable business impact.
@@ -24,7 +24,7 @@ I specialize in transforming complex data ecosystems into reliable, scalable ana
 
 ---
 
-## 🛠 Core Stack
+## Core Stack
 
 **Data:** SQL • Snowflake • BigQuery • PostgreSQL • Databricks  
 **Orchestration:** Airflow • dbt  
