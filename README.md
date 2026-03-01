@@ -5,7 +5,7 @@ Building scalable data foundations that drive measurable business impact.
 
 ---
 
-## 🚀 Profile
+## Profile
 
 Analytics Engineer with 4+ years of experience designing modern data architectures, leading BI projects, and enabling data-driven decision-making across Finance, Retail, Industry & Consulting environments.
 
@@ -13,7 +13,7 @@ I specialize in transforming complex data ecosystems into reliable, scalable ana
 
 ---
 
-## 🧱 What I Do
+## What I Do
 
 - Design robust cloud-based data architectures (GCP, Azure)
 - Build and optimize data pipelines (SQL, Python, Airflow, dbt)
@@ -40,7 +40,7 @@ Modern Data Stack • Analytics Engineering • Scalable BI Architecture • Clo
 
 ---
 
-## 🤝 Open To
+## Open To
 
 Analytics Engineering roles • BI Lead positions • Freelance data missions • Consulting projects
 
